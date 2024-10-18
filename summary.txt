@@ -1,0 +1,24 @@
+JAVA
+real	0m2,323s
+
+GOLANG
+real	0m0,201s
+
+Python3.12
+real	0m14,775s
+
+CYTHON
+real	0m0,010s
+
+RUST
+real	0m0,457s
+
+C
+real	0m0,274s
+
+C++
+real	0m0,498s
+
+JS (node 21)
+real	0m0,352s
+
