@@ -1,0 +1,65 @@
+pe 18.10.2024 16.23.42 +0300
+JAVA
+------------------
+Test
+1000000000
+
+real	0m2,323s
+user	0m1,806s
+sys	0m0,492s
+
+GOLANG
+------------------
+Result:  1000000000
+
+real	0m0,201s
+user	0m0,193s
+sys	0m0,004s
+
+Python3.12
+------------------
+counts: 1000000000
+
+real	0m14,775s
+user	0m14,754s
+sys	0m0,010s
+
+CYTHON
+------------------
+1000000000
+
+real	0m0,010s
+user	0m0,008s
+sys	0m0,001s
+
+RUST
+------------------
+Final count: 1000000000
+
+real	0m0,457s
+user	0m0,449s
+sys	0m0,005s
+
+C
+------------------
+Final count: 1000000000
+
+real	0m0,274s
+user	0m0,272s
+sys	0m0,001s
+
+C++
+------------------
+1000000000
+
+real	0m0,498s
+user	0m0,494s
+sys	0m0,004s
+
+JS (node 21)
+------------------
+Counts: 1000000000
+
+real	0m0,352s
+user	0m0,343s
+sys	0m0,010s
