@@ -26,6 +26,21 @@ int main() {
     return 0;
 }
 ```
+## Before running the runnner.sh!
+
+That python code would work correctly is important to start install and activate
+virtual environment.
+
+Run in terminal
+
+- install virtual environment
+> python3.12 -m venv venv_cy
+
+- activate
+> . ./venv_cy/bin/activate
+
+Then you can run script running compiled binaries and python tests
+> bash runnner.sh
 
 ## How to compile code
 
